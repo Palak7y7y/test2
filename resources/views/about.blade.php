@@ -14,13 +14,13 @@
                     <img src="assets/img/about.jpg" class="img-responsive" alt="">
                 </div>
                 <!-- /.End of about big image -->
-                <div class="page-content">
+                <div class="page-conten67t">
                     <div class="container">
                         <div class="row">
                             <main class="col-sm-10 col-sm-offset-1">
                                 <div class="post_details">
                                     <h3>It is a long established fact that a reader will be distracted. </h3>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
+                                    <p>Lorem Ipsum is simplklbj;y dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
                                         text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has 
                                         survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
                                     <p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with
