@@ -14,7 +14,7 @@
                     <img src="assets/img/about.jpg" class="img-responsive" alt="">
                 </div>
                 <!-- /.End of about big image -->
-                <div class="page-content">
+                <div class="page-conten67t">
                     <div class="container">
                         <div class="row">
                             <main class="col-sm-10 col-sm-offset-1">
