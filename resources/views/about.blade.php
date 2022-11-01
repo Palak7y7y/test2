@@ -8,7 +8,7 @@
     @endsection
 
     @section('content')
-                <div class="clearfixeddd"></div>
+                <div class="clearfixeddd">shivangi</div>
                 <!-- /.End of navigation -->
                 <div class="container">
                     <img src="assets/img/about.jpg" class="img-responsive" alt="">
