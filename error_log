@@ -1,0 +1,105 @@
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_options' doesn't exist for query SELECT option_value FROM wpvz_options WHERE option_name = 'medium_crop' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_theme_data, get_default_block_editor_settings, wp_get_registered_image_subsizes, get_option
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_options' doesn't exist for query SELECT option_value FROM wpvz_options WHERE option_name = 'medium_large_crop' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_theme_data, get_default_block_editor_settings, wp_get_registered_image_subsizes, get_option
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_options' doesn't exist for query SELECT option_value FROM wpvz_options WHERE option_name = 'medium_crop' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_theme_data, get_default_block_editor_settings, wp_get_registered_image_subsizes, get_option
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_options' doesn't exist for query SELECT option_value FROM wpvz_options WHERE option_name = 'large_crop' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_theme_data, get_default_block_editor_settings, wp_get_registered_image_subsizes, get_option
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_options' doesn't exist for query SELECT option_value FROM wpvz_options WHERE option_name = 'medium_crop' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_theme_data, get_default_block_editor_settings, wp_get_registered_image_subsizes, get_option
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_options' doesn't exist for query SELECT option_value FROM wpvz_options WHERE option_name = 'medium_large_crop' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_theme_data, get_default_block_editor_settings, wp_get_registered_image_subsizes, get_option
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_options' doesn't exist for query SELECT option_value FROM wpvz_options WHERE option_name = 'large_crop' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_theme_data, get_default_block_editor_settings, wp_get_registered_image_subsizes, get_option
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_options' doesn't exist for query SELECT option_value FROM wpvz_options WHERE option_name = 'medium_large_crop' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_theme_data, get_default_block_editor_settings, wp_get_registered_image_subsizes, get_option
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_options' doesn't exist for query SELECT option_value FROM wpvz_options WHERE option_name = 'large_crop' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_theme_data, get_default_block_editor_settings, wp_get_registered_image_subsizes, get_option
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_terms' doesn't exist for query 
+			SELECT  t.term_id
+			FROM wpvz_terms AS t  INNER JOIN wpvz_term_taxonomy AS tt ON t.term_id = tt.term_id
+			WHERE tt.taxonomy IN ('wp_theme') AND t.name IN ('Newspaper')
+			
+			LIMIT 1
+		 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_user_data, WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles, wp_get_recent_posts, get_posts, WP_Query->query, WP_Query->get_posts, WP_Tax_Query->get_sql, WP_Tax_Query->get_sql_clauses, WP_Tax_Query->get_sql_for_query, WP_Tax_Query->get_sql_for_clause, WP_Tax_Query->clean_query, WP_Tax_Query->transform_query, WP_Term_Query->query, WP_Term_Query->get_terms
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_terms' doesn't exist for query 
+			SELECT  t.term_id
+			FROM wpvz_terms AS t  INNER JOIN wpvz_term_taxonomy AS tt ON t.term_id = tt.term_id
+			WHERE tt.taxonomy IN ('wp_theme') AND t.name IN ('Newspaper')
+			
+			LIMIT 1
+		 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_user_data, WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles, wp_get_recent_posts, get_posts, WP_Query->query, WP_Query->get_posts, WP_Tax_Query->get_sql, WP_Tax_Query->get_sql_clauses, WP_Tax_Query->get_sql_for_query, WP_Tax_Query->get_sql_for_clause, WP_Tax_Query->clean_query, WP_Tax_Query->transform_query, WP_Term_Query->query, WP_Term_Query->get_terms
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_posts' doesn't exist for query 
+					SELECT   wpvz_posts.ID
+					FROM wpvz_posts 
+					WHERE 1=1  AND ( 
+  0 = 1
+) AND wpvz_posts.post_type = 'wp_global_styles' AND ((wpvz_posts.post_status = 'publish'))
+					GROUP BY wpvz_posts.ID
+					ORDER BY wpvz_posts.post_date DESC
+					LIMIT 0, 1
+				 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_user_data, WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles, wp_get_recent_posts, get_posts, WP_Query->query, WP_Query->get_posts
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_posts' doesn't exist for query 
+					SELECT   wpvz_posts.ID
+					FROM wpvz_posts 
+					WHERE 1=1  AND ( 
+  0 = 1
+) AND wpvz_posts.post_type = 'wp_global_styles' AND ((wpvz_posts.post_status = 'publish'))
+					GROUP BY wpvz_posts.ID
+					ORDER BY wpvz_posts.post_date DESC
+					LIMIT 0, 1
+				 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_user_data, WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles, wp_get_recent_posts, get_posts, WP_Query->query, WP_Query->get_posts
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_terms' doesn't exist for query 
+			SELECT  t.term_id
+			FROM wpvz_terms AS t  INNER JOIN wpvz_term_taxonomy AS tt ON t.term_id = tt.term_id
+			WHERE tt.taxonomy IN ('wp_theme') AND t.name IN ('Newspaper')
+			
+			LIMIT 1
+		 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_user_data, WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles, wp_get_recent_posts, get_posts, WP_Query->query, WP_Query->get_posts, WP_Tax_Query->get_sql, WP_Tax_Query->get_sql_clauses, WP_Tax_Query->get_sql_for_query, WP_Tax_Query->get_sql_for_clause, WP_Tax_Query->clean_query, WP_Tax_Query->transform_query, WP_Term_Query->query, WP_Term_Query->get_terms
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_posts' doesn't exist for query 
+					SELECT   wpvz_posts.ID
+					FROM wpvz_posts 
+					WHERE 1=1  AND ( 
+  0 = 1
+) AND wpvz_posts.post_type = 'wp_global_styles' AND ((wpvz_posts.post_status = 'publish'))
+					GROUP BY wpvz_posts.ID
+					ORDER BY wpvz_posts.post_date DESC
+					LIMIT 0, 1
+				 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_user_data, WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles, wp_get_recent_posts, get_posts, WP_Query->query, WP_Query->get_posts
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_posts' doesn't exist for query 
+		SELECT ID, post_name, post_parent, post_type
+		FROM wpvz_posts
+		WHERE post_name IN ('wp-content','uploads','2020','06','b2-80x70-jpg')
+		AND post_type IN ('page','attachment')
+	 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, get_page_by_path
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_posts' doesn't exist for query 
+		SELECT ID, post_name, post_parent, post_type
+		FROM wpvz_posts
+		WHERE post_name IN ('wp-content','uploads','2020','06','6-1-80x70-png')
+		AND post_type IN ('page','attachment')
+	 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, get_page_by_path
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_posts' doesn't exist for query 
+					SELECT SQL_CALC_FOUND_ROWS  wpvz_posts.ID
+					FROM wpvz_posts 
+					WHERE 1=1  AND ((wpvz_posts.post_type = 'post' AND (wpvz_posts.post_status = 'publish' 
+OR wpvz_posts.post_status = 'private')))
+					
+					ORDER BY wpvz_posts.post_date DESC
+					LIMIT 0, 10
+				 made by require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_posts' doesn't exist for query 
+					SELECT SQL_CALC_FOUND_ROWS  wpvz_posts.ID
+					FROM wpvz_posts 
+					WHERE 1=1  AND ((wpvz_posts.post_type = 'post' AND (wpvz_posts.post_status = 'publish' 
+OR wpvz_posts.post_status = 'private')))
+					
+					ORDER BY wpvz_posts.post_date DESC
+					LIMIT 0, 10
+				 made by require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_posts' doesn't exist for query 
+		SELECT ID, post_name, post_parent, post_type
+		FROM wpvz_posts
+		WHERE post_name IN ('wp-content','uploads','2021','03','51-150x150-png')
+		AND post_type IN ('page','attachment')
+	 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, get_page_by_path
+[30-Jun-2022 06:35:29 UTC] WordPress database error Table 'halftuber_wp328.wpvz_posts' doesn't exist for query 
+					SELECT SQL_CALC_FOUND_ROWS  wpvz_posts.ID
+					FROM wpvz_posts 
+					WHERE 1=1  AND ((wpvz_posts.post_type = 'post' AND (wpvz_posts.post_status = 'publish' 
+OR wpvz_posts.post_status = 'private')))
+					
+					ORDER BY wpvz_posts.post_date DESC
+					LIMIT 0, 10
+				 made by require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts
